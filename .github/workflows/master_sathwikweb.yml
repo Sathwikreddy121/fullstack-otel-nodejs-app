@@ -61,4 +61,4 @@ jobs:
           app-name: 'sathwikweb'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D016C16A73DE46D6A996CFC4C5CBB90E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB0036698B714F79A79AA5E601C432FF }}
